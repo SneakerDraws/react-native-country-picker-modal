@@ -25,7 +25,6 @@ tslint.json
 .editorconfig
 app.json
 CODE_OF_CONDUCT.md
-typings.d.ts
 __tests__/
 .expo/
 .github/

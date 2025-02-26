@@ -1,8 +1,7 @@
 {
   "include": [
     "src",
-    "App.tsx",
-    "./typings.d.ts"
+    "App.tsx"
   ],
   "compilerOptions": {
     "declaration": true,
